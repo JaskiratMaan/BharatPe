@@ -1,0 +1,229 @@
+.logo {
+    padding-left: 50px;
+    padding-top: 8px;
+}
+
+nav {
+    border-bottom: solid 1px gray;
+    display: flex;
+    padding: 15px;
+    padding-right: 70px;
+    justify-content: space-between;
+    /* position: fixed; */
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    font-size: larger;
+    /* padding: 0px; */
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 1px;
+    color: rgb(79, 79, 186);
+    border: solid rgb(79, 79, 186);
+    background-color: white;
+}
+
+.heading {
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.blue {
+    color: rgb(69, 108, 252);
+}
+
+main {
+    display: flex;
+    padding: 40px;
+    justify-content: space-between;
+    background-image: url(https://bharatpe.com/wp-content/themes/betheme/images/bg-home-banner-lg.jpg);
+}
+
+.img {
+    padding: 0;
+    height: 510px;
+
+    border-radius: 20%;
+    
+    /* object-fit: cover; */
+    
+    overflow: hidden;
+    
+    
+}
+
+.app {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: black;
+    border: 1px solid rgba(195, 194, 194, 0.512);
+    background-color: rgb(252, 252, 252);
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+
+.black {
+    background-color: rgb(25, 25, 25);
+    justify-content: space-between;
+    
+}
+
+.num {
+    color: rgb(250, 249, 248);
+    padding: 20px;
+    padding-left: 35%;
+    font-size: larger;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.png{
+    display: flex;
+    margin: 30px;
+    padding: 30px;
+    
+
+}
+div{
+    padding: 45px;
+    padding-bottom: 20px;
+
+}
+.white{
+    color: white;
+    font-size: larger;
+}
+.why{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    padding-left: 50px;
+
+}
+.left{
+    padding-left: 40%;
+}
+.perfect{
+    display: flex;
+    
+}
+.congratulation{
+    border-radius:10% ;
+    overflow: hidden;
+    
+    padding: 0;
+    width: 700px;
+    height: 345px;
+    margin: 50px;
+    
+
+
+}
+.from{
+     font-family: inherit;
+     font-size: larger;
+color: rgb(39, 39, 39);}
+.pay{
+    border:0;
+    border-color: white;
+    color: black;
+    font-size: larger;
+    background-color: white;
+    
+
+    
+}
+.merchant{
+    background-color: rgb(229, 242, 247);
+    
+    justify-items: center;
+}
+.con{
+    display: flex;
+    justify-items: center;
+    padding-left: 0px;
+}
+.QR{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10%;
+    
+    margin-left: 15%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.i{
+    height: 256px;
+    width: 400px;
+    padding: 0px;
+    border-radius: 10%;
+    overflow: hidden;
+}
+.space{
+    padding-left: 40%;
+}
+.but{
+    padding-left: 39%;
+}
+.swipe{
+    padding-left: 22%;
+
+}
+.p{
+    border: 5px;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    background-color: #2b7bff;
+    
+
+}
+.consumer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    padding-left: 36%;
+}
+.bn{
+    display: flex;
+}
+.upto{
+    display: flex;
+    height: 50px;
+    width: 100px;
+}
+.mohd{
+    
+    padding: 0px;
+    border-radius: 100%;
+    overflow: hidden;
+    /* border: solid; */
+}
+.razi{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+}
+.s{
+    padding: 10%;
+    padding-top: 20px;
+    padding-bottom: 0;
+    
+}
+.view{
+    font-size: x-large;
+    /* padding: 0px; */
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 1px;
+    color: rgb(79, 79, 186);
+    border: solid rgb(79, 79, 186);
+    background-color: white;
+    align-items: center;
+    margin-left: 45%;
+    margin-top: 0;
+}
